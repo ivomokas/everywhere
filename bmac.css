@@ -1,0 +1,23 @@
+.pack{
+  width:200px;
+}
+
+.lista{
+  list-style:none;
+  color: #eee;
+  font-family:"Open sans",sans-serif;
+  font-size: 16px;
+  text-align: center;
+}
+
+.item{
+ background-color:#1899ac;
+ margin:2px;
+  padding:5px;
+  border-radius:5px;
+}
+
+.item:hover{
+  background-color:#22eeee;
+  cursor: pointer;
+}
